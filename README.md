@@ -42,11 +42,11 @@
 ---
 
 ### 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pra-gli&theme=dark&hide_border=true&ring=FF9800&fire=FF9800&currStreakLabel=FF9800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pra-gli&show_icons=true&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 
