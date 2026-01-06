@@ -1,5 +1,5 @@
 # prakash23
-<h1 align="center">Hi 👋, I'm Tilak</h1>
+<h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">BIT Student | Aspiring Software Developer</h3>
 
 ---
