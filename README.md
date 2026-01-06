@@ -32,6 +32,10 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge"/>
+
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge"/>
 </p>
 
