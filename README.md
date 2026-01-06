@@ -45,4 +45,6 @@
 ---
 
 ### ✍️ Quote
-> “Code is like humor. When you have to explain it, it’s bad.”
+<p style="color:gray; font-style:italic;">
+“Code is like humor. When you have to explain it, it’s bad.”
+</p>
